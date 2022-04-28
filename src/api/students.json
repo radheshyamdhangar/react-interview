@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Robin Jacob",
+        "profilePic": "https://pbs.twimg.com/media/BtFUrp6CEAEmsml?format=jpg&name=small",
+        "totalMark": "80"
+    },
+    {
+        "id": 2,
+        "name": "Sam John",
+        "profilePic": "https://pbs.twimg.com/media/BtFUrp6CEAEmsml?format=jpg&name=small",
+        "totalMark": "70"
+    },
+    {
+        "id": 3,
+        "name": "Samual Jav",
+        "profilePic": "https://pbs.twimg.com/media/BtFUrp6CEAEmsml?format=jpg&name=small",
+        "totalMark": "90"
+    },
+    {
+        "id": 4,
+        "name": "Steav Roger",
+        "profilePic": "https://pbs.twimg.com/media/BtFUrp6CEAEmsml?format=jpg&name=small",
+        "totalMark": "80"
+    },
+    {
+        "id": 5,
+        "name": "Peter Heuin",
+        "profilePic": "https://pbs.twimg.com/media/BtFUrp6CEAEmsml?format=jpg&name=small",
+        "totalMark": "70"
+    },
+    {
+        "id": 6,
+        "name": "Silvers Stark",
+        "profilePic": "https://pbs.twimg.com/media/BtFUrp6CEAEmsml?format=jpg&name=small",
+        "totalMark": "90"
+    }
+]

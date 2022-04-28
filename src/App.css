@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.container {
+  justify-content: center;
+  max-width: 70%;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+}
+.all-students {
+  
+}
+
+.student-wrapper {
+  padding: 5px;
+  width: 26%;
+  display: inline-block; 
+  margin: 5px;
+  cursor: pointer;
+}
+
+.student-wrapper.preview {
+  width: 200px;
+  height: 200px;
+  cursor: default;
+  border: 1px solid;
+  margin-top: 40px;
+}
+
+.student-wrapper img {
+  max-width: 100%;
+  width: auto;
+}
+.student-wrapper p {
+  margin-bottom: 3px;
+  font-size: 16px;
+}
+
+.col.col-8 {
+  width: 60%;
+}
